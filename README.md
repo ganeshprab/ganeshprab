@@ -26,4 +26,4 @@ I love to read books and listen to music.
 
 ### Where to find me
 
-[![Linkedin](https://www.linkedin.com/in/ganesh-prabhu-92a40319/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-prabhu-92a40319/) 
