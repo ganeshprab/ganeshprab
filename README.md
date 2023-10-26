@@ -14,12 +14,11 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
 
-I'm a Full Stack Developer with a huge love for React, angular, NodeJS, Java Spring boot Microservices & System Architecture.. Currently, **I'm open to work and employment opportunities**.
+I'm a Full Stack Developer with a huge love for React, angular, NodeJS, Java Spring boot Microservices & System Architecture.
 
 I love to read books and listen to music.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about React, angular, NodeJS, Java Spring boot and API development.
 - 📫 I am just one mail away - ganeshprab@gmail.com
 
