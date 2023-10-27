@@ -16,7 +16,7 @@
 
 I'm a Full Stack Developer with a huge love for React, angular, NodeJS, Java Spring boot Microservices & System Architecture.
 
-I love to read books and listen to music.
+I love travelling and listening to music.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💬 Ask me about React, angular, NodeJS, Java Spring boot and API development.
